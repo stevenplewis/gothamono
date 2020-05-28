@@ -2,4 +2,4 @@
 
 ![Gothamono cover image](gothamono-cover.png)
 
-A monospaced pixel typeface inspired by "Batman: the Animated Series"
+A monospaced pixel typeface inspired by the "Dark Deco" aesthetic of "Batman: the Animated Series"
