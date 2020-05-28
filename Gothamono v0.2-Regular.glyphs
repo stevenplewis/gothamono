@@ -23813,7 +23813,7 @@ unicode = 006C;
 },
 {
 glyphname = m;
-lastChange = "2020-05-20 01:09:36 +0000";
+lastChange = "2020-05-28 17:24:36 +0000";
 layers = (
 {
 components = (
@@ -24056,6 +24056,54 @@ transform = "{1, 0, 0, 1, 200, 300}";
 {
 name = pixel;
 transform = "{1, 0, 0, 1, 250, 300}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 200, 250}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 200, 200}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 200, 150}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 200, 100}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 200, 50}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 200, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 250, 0}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 250, 50}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 250, 100}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 250, 150}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 250, 200}";
+},
+{
+name = pixel;
+transform = "{1, 0, 0, 1, 250, 250}";
 }
 );
 layerId = "0FE87735-6BAD-4326-8BF2-9E730F6A49D9";
