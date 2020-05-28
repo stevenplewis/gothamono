@@ -42541,6 +42541,16 @@ width = 500;
 unicode = 00A2;
 },
 {
+glyphname = currency;
+layers = (
+{
+layerId = "0FE87735-6BAD-4326-8BF2-9E730F6A49D9";
+width = 600;
+}
+);
+unicode = 00A4;
+},
+{
 glyphname = dollar;
 lastChange = "2020-05-20 01:25:10 +0000";
 layers = (
